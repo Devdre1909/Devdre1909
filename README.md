@@ -17,9 +17,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Devdre1909&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af&count_private=true">
 </div>
 
-I build frontend application with VueJS, focusing a responsible, assessable, scalable and maintainable application. 
+I build frontend application with VueJS, focusing a responsible, assessable, scalable and maintainable application.
 
-I also do my severe-sides stuffs with NodeJS using SQL/NoSQL database as the task at hand my require.
+I also do my server-sides stuffs with NodeJS using SQL/NoSQL database as the task at hand my require.
 
 Always reading, always learning...
 
