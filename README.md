@@ -1,6 +1,6 @@
 # Adegoke Temitope
 
-> Self thought Web Developer, the goal is a Software Engineer
+> Self thought Software Engineer.
 
 ![](https://img.shields.io/badge/-JavaScript-F3CF01?style=flat-square&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-CSS3-254BDD?style=flat-square&logo=CSS3&labelColor=254BDD)
