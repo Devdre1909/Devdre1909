@@ -1,6 +1,7 @@
 # Adegoke Temitope
 
 > Learning ML
+> |
 > Self thought Software Engineer.
 
 ![](https://img.shields.io/badge/-JavaScript-F3CF01?style=flat-square&logo=JavaScript&logoColor=fff)
