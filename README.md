@@ -1,8 +1,25 @@
-# Adegoke Temitope
+<h1 align="center">Hi 👋, I'm Dammy</h1>
+<h3 align="center">A Stylish Web Developer </h3>
 
-> Learning ML
-> |
-> Self thought Software Engineer.
+- 🌱 I’m currently learning **ML**
+
+- 👯 I’m looking to collaborate on **Frontend Projects**
+
+- 💬 Ask me about **JavaScript**
+
+- 📫 How to reach me **adegoketemitope1909@gmail.com**
+
+____
+
+I build frontend application with VueJS, React, focusing on a responsible, assessable, scalable and maintainable application.
+
+I also do my server-sides stuffs with NodeJS using SQL/NoSQL database as the task at hand my require.
+
+Always reading, always learning...
+
+<p align="left"> <a href="https://twitter.com/__iamdammy" target="blank"><img src="https://img.shields.io/twitter/follow/dammy?logo=twitter&style=for-the-badge" alt="devdre1909" /></a> </p>
+
+___
 
 ![](https://img.shields.io/badge/-JavaScript-F3CF01?style=flat-square&logo=JavaScript&logoColor=fff)
 ![](https://img.shields.io/badge/-CSS3-254BDD?style=flat-square&logo=CSS3&labelColor=254BDD)
@@ -13,22 +30,15 @@
 ![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=fff)
 
----
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=Devdre1909&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af&count_private=true">
-</div>
 
-I build frontend application with VueJS, focusing on a responsible, assessable, scalable and maintainable application.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Devdre1909&label=Profile%20views&color=0e75b6&style=flat" alt="Devdre1909" /> </p>
 
-I also do my server-sides stuffs with NodeJS using SQL/NoSQL database as the task at hand my require.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devdre1909" alt="devdre1909" /></a> </p>
 
-Always reading, always learning...
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devdre1909&show_icons=true&locale=en&layout=compact" alt="devdre1909" /></p>
 
-## Get in touch
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devdre1909&show_icons=true&locale=en" alt="devdre1909" /></p>
 
-[![](https://img.shields.io/badge/-MailMe-3f4441?style=flat-square&logo=Gmail&logoColor=aa000000)](mailto:adegoketemitope1909@gmail.com)
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devdre1909&" alt="devdre1909" /></p>
