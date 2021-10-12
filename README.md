@@ -30,7 +30,7 @@ ___
 ![](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=fff)
 
-
+[![wakatime](https://wakatime.com/badge/user/6ce46488-e4bf-438e-bd7b-bd072da88977.svg)](https://wakatime.com/@6ce46488-e4bf-438e-bd7b-bd072da88977)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Devdre1909&label=Profile%20views&color=0e75b6&style=flat" alt="Devdre1909" /> </p>
 
