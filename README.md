@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dammy</h1>
 <h3 align="center">A Stylish Web Developer </h3>
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **C#**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
@@ -12,10 +12,6 @@
 ____
 
 I build frontend application with VueJS, React, focusing on a responsible, assessable, scalable and maintainable application.
-
-I also do my server-sides stuffs with NodeJS using SQL/NoSQL database as the task at hand my require.
-
-Always reading, always learning...
 
 <p align="left"> <a href="https://twitter.com/__iamdammy" target="blank"><img src="https://img.shields.io/twitter/follow/dammy?logo=twitter&style=for-the-badge" alt="devdre1909" /></a> </p>
 
