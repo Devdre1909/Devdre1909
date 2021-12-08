@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **C#** with **Unity Engine**
 - 👯 I’m looking to collaborate on any **Blockchain Frontend Projects**
 - 💬 Ask me about **JavaScript** and **Games**
-- 📫 How to reach me **adegoketemitope1909@gmail.com**
+- 📫 How to reach me **<adegoketemitope1909@gmail.com>**
 - Looking forward to building UI for Virtual Worlds 😎
 
 <br />
