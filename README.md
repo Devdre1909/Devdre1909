@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Temitope</h1>
 <h3 align="center">iDesign and iDevelop for the Web 😇</h3>
 
+[temitope.dev/linkedin](https://temitope.dev/linkedin) | [temitope.dev/twitter](https://temitope.dev/twitter)
+
 <br />
 
 - 🌱 I’m currently learning **C#** with **Unity Engine**
