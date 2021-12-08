@@ -17,4 +17,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devdre1909&show_icons=true&locale=en&layout=compact" alt="devdre1909" /></p>
 
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=devdre1909" />
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devdre1909&" alt="devdre1909" /></p>
