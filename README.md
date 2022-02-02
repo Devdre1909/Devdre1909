@@ -3,5 +3,7 @@
 
 <br >
 
-[temitope.dev](https://temitope.dev) | [temitope.dev/linkedin](https://temitope.dev/linkedin) | [temitope.dev/twitter](https://temitope.dev/twitter)
+<h3 align="center">
+  [temitope.dev](https://temitope.dev)
+ </h3>
 
