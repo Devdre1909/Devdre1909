@@ -4,6 +4,6 @@
 <br >
 
 <h3 align="center">
-  [temitope.dev](https://temitope.dev)
+  https://temitope.dev
  </h3>
 
