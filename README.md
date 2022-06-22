@@ -1,6 +1,6 @@
 # 💻 Temitope O. Adegoke
 
-Hi there, I'm a Software Engineer with proven professional years of experience building digital solutions across various industries.
+Hi there, I'm a proactive Software Engineer with proven professional years of experience building digital solutions across various industries.
 
 Teaching and peer programming are norms for me as I love collaborating with teammates, learning from others, and impacting my knowledge in any way I can, it's about growing together.
 
