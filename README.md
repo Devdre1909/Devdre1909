@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Temitope</h1>
-<h3 align="center"> On the learning path... Please wait... 😇</h3>
+# 💻 Temitope O. Adegoke
 
-<br >
+Hi there, I'm a Software Engineer with proven professional years of experience building digital solutions across various industries.
 
-<h3 align="center">
-  https://temitope.dev
- </h3>
+Teaching and peer programming are norms for me as I love collaborating with teammates, learning from others, and impacting my knowledge in any way I can, it's about growing together.
 
+Outside all this, you'd probably find me on the internet checking out new things, or another route to getting this done, and in several cases just playing games.
+
+## 🚀 Get in touch
+
+Twitter: [@devtemitope](https://twitter.com/devtemitope)
+
+LinkedIn: [Temitope (Oluwadamilare) Adegoke](https://www.linkedin.com/in/dtemitope/)
