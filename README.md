@@ -11,3 +11,5 @@ Outside all this, you'd probably find me on the internet checking out new things
 Twitter: [@devtemitope](https://twitter.com/devtemitope)
 
 LinkedIn: [Temitope (Oluwadamilare) Adegoke](https://www.linkedin.com/in/dtemitope/)
+
+![](https://hit.yhype.me/github/profile?user_id=49331266)
